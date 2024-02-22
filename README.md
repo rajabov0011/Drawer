@@ -4,19 +4,19 @@
 * Code
 
 <p align="center">
-  <img src="https://github.com/rajabov0011/Drawer/blob/main/images/code1.png" alt="1">
+  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/code1.png" alt="1">
 </p>
 
 * Code
 
 <p align="center">
-  <img src="https://github.com/rajabov0011/Drawer/blob/main/images/code2.png" alt="2">
+  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/code2.png" alt="2">
 </p>
 
 * Shapes
 
 <p align="center">
-  <img src="https://github.com/rajabov0011/Drawer/blob/main/images/shapes.png" alt="Shapes">
+  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/shapes.png" alt="Shapes">
 </p>
 
 * Run Code
