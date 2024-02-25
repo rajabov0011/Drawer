@@ -1,0 +1,24 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int sides;
+        double radius;
+
+        Console.Write("Beshburchakning burchaklar sonini kiriting: ");
+        sides = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Beshburchakning radiusini kiriting: ");
+        radius = Convert.ToDouble(Console.ReadLine());
+
+        // Burchaklar soniga bog'liq yuzlarni chiqarish
+        for (int i = 0; i < sides; i++)
+        {
+            double x = radius * Math.Cos(2 * Math.PI * i / sides);
+            double y = radius * Math.Sin(2 * Math.PI * i / sides);
+            Console.WriteLine("Burchak " + (i + 1) + ": (" + x + ", " + y + ")");
+        }
+    }
+}

@@ -14,8 +14,14 @@
 </p>
 
 * Shapes
+1. Triangle
 
-<p align="center">
+    CODE                                      IMAGE
+<p align="left">
+  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/shapes.png" alt="Shapes">
+</p>
+
+<p align="right">
   <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/shapes.png" alt="Shapes">
 </p>
 
