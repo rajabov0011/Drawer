@@ -14,15 +14,26 @@
 </p>
 
 * Shapes
-1. Triangle
+> 1. Triangle
 
-    CODE                                      IMAGE
-<p align="left">
-  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/shapes.png" alt="Shapes">
+  > Code And Image
+<p align="center">
+  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/triangle.png" alt="Triangle">
 </p>
 
-<p align="right">
-  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/shapes.png" alt="Shapes">
+
+> 2. Square
+
+  > Code And Image
+<p align="center">
+  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/square.jpg" alt="Square">
+</p>
+
+> 3. Parallelogram
+
+  > Code And Image
+<p align="center">
+  <img src="https://github.com/rajabov0011/Drawer/blob/main/imagesAndGif/parallelogram.jpg" alt="Parallelogram">
 </p>
 
 * Run Code
